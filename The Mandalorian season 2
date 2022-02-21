@@ -2,19 +2,82 @@
 name: "The Mandalorian Season 2",	
 author: "@PLAY TV",	
 image: "https://series-korea.com/assets/img/uploads/The-Mandalorian-season-2.webp",	
-url: "https://raw.githubusercontent.com/thaisong2012/Series/main/The%20Mandalorian%20Season%201",	
+url: "https://raw.githubusercontent.com/thaisong2012/Series/main/The%20Mandalorian%20season%202",	
 	
 			
 stations: [	
 		
 {	
-name:"The Mandalorian Season 1 EP1",  	
-image:"https://series-korea.com/assets/img/uploads/The-Mandalorian.webp",  	
-url: "https://series-korea.com/The-Mandalorian-episode-1-TH",	
+name:"The Mandalorian Season 2 EP1",  	
+image:"https://series-korea.com/assets/img/uploads/The-Mandalorian-season-2.webp",  	
+url: "https://series-korea.com/The-Mandalorian-season-2-episode-1-TH",	
 referer: "https://series-korea.com/",	
 info: "PLAY TV",	
 playInNatPlayer: "true"	
 },
+{	
+name:"The Mandalorian Season 2 EP2",  	
+image:"https://series-korea.com/assets/img/uploads/The-Mandalorian-season-2.webp",  	
+url: "https://series-korea.com/The-Mandalorian-season-2-episode-1-TH",	
+referer: "https://series-korea.com/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},
+
+{	
+name:"The Mandalorian Season 2 EP3",  	
+image:"https://series-korea.com/assets/img/uploads/The-Mandalorian-season-2.webp",  	
+url: "https://series-korea.com/The-Mandalorian-season-2-episode-1-TH",	
+referer: "https://series-korea.com/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},
+
+{	
+name:"The Mandalorian Season 2 EP4",  	
+image:"https://series-korea.com/assets/img/uploads/The-Mandalorian-season-2.webp",  	
+url: "https://series-korea.com/The-Mandalorian-season-2-episode-1-TH",	
+referer: "https://series-korea.com/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},
+
+{	
+name:"The Mandalorian Season 2 EP5",  	
+image:"https://series-korea.com/assets/img/uploads/The-Mandalorian-season-2.webp",  	
+url: "https://series-korea.com/The-Mandalorian-season-2-episode-1-TH",	
+referer: "https://series-korea.com/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},
+
+{	
+name:"The Mandalorian Season 2 EP6",  	
+image:"https://series-korea.com/assets/img/uploads/The-Mandalorian-season-2.webp",  	
+url: "https://series-korea.com/The-Mandalorian-season-2-episode-1-TH",	
+referer: "https://series-korea.com/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},
+
+{	
+name:"The Mandalorian Season 2 EP7",  	
+image:"https://series-korea.com/assets/img/uploads/The-Mandalorian-season-2.webp",  	
+url: "https://series-korea.com/The-Mandalorian-season-2-episode-1-TH",	
+referer: "https://series-korea.com/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},
+
+{	
+name:"The Mandalorian Season 2 EP8 End",  	
+image:"https://series-korea.com/assets/img/uploads/The-Mandalorian-season-2.webp",  	
+url: "https://series-korea.com/The-Mandalorian-season-2-episode-1-TH",	
+referer: "https://series-korea.com/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},
+
 
 
 
