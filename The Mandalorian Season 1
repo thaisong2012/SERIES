@@ -1,64 +1,21 @@
 ﻿{	
 name: "The Mandalorian Season 1",	
 author: "@PLAY TV",	
-image: "https://api.vip-streaming.com/images/movie/L2LhcZfz81GNkHGQZdiP2ZE17wlgEPf.jpg",	
-url: "https://raw.githubusercontent.com/thaisong2012/Series/main/Hawkeye%20Season%201",	
+image: "https://series-korea.com/assets/img/uploads/The-Mandalorian.webp",	
+url: "https://raw.githubusercontent.com/thaisong2012/Series/main/The%20Mandalorian%20Season%201",	
 	
 			
 stations: [	
 		
 {	
 name:"Hawkeye Season 1 ตอนที่ 1",  	
-image:"https://www.monomax.info/wp-content/uploads/2022/01/hawkey.jpg",  	
-url: "https://www.monomax.info/clip/NDI2NA==/",	
-referer: "https://www.doonung1234.com/",	
-info: "PLAY TV",	
-playInNatPlayer: "true"	
-},
-{	
-name:"Hawkeye Season 1 ตอนที่ 2",  	
-image:"https://www.monomax.info/wp-content/uploads/2022/01/hawkey.jpg",  	
-url: "https://www.monomax.info/clip/NDI2NQ==/",	
-referer: "https://www.doonung1234.com/",	
+image:"https://series-korea.com/assets/img/uploads/The-Mandalorian.webp",  	
+url: "https://series-korea.com/The-Mandalorian-episode-1-TH",	
+referer: "https://series-korea.com/",	
 info: "PLAY TV",	
 playInNatPlayer: "true"	
 },
 
-{	
-name:"Hawkeye Season 1 ตอนที่ 3",  	
-image:"https://www.monomax.info/wp-content/uploads/2022/01/hawkey.jpg",  	
-url: "https://www.monomax.info/clip/NDI2Ng==/",	
-referer: "https://www.doonung1234.com/",	
-info: "PLAY TV",	
-playInNatPlayer: "true"	
-},
-
-{	
-name:"Hawkeye Season 1 ตอนที่ 4",  	
-image:"https://www.monomax.info/wp-content/uploads/2022/01/hawkey.jpg",  	
-url: "https://www.monomax.info/clip/NTk2Ng==/",	
-referer: "https://www.doonung1234.com/",	
-info: "PLAY TV",	
-playInNatPlayer: "true"	
-},
-
-{	
-name:"Hawkeye Season 1 ตอนที่ 5",  	
-image:"https://www.monomax.info/wp-content/uploads/2022/01/hawkey.jpg",  	
-url: "https://www.monomax.info/clip/NTgwMg==/",	
-referer: "https://www.doonung1234.com/",	
-info: "PLAY TV",	
-playInNatPlayer: "true"	
-},
-
-{	
-name:"Hawkeye Season 1 ตอนที่ 6 จบ",  	
-image:"https://www.monomax.info/wp-content/uploads/2022/01/hawkey.jpg",  	
-url: "https://www.monomax.info/clip/NTgwMw==/",	
-referer: "https://www.doonung1234.com/",	
-info: "PLAY TV",	
-playInNatPlayer: "true"	
-},
 
 
 
