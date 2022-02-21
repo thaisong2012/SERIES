@@ -8,13 +8,70 @@ url: "https://raw.githubusercontent.com/thaisong2012/Series/main/The%20Mandalori
 stations: [	
 		
 {	
-name:"Hawkeye Season 1 ตอนที่ 1",  	
+name:"The Mandalorian Season 1 EP1",  	
 image:"https://series-korea.com/assets/img/uploads/The-Mandalorian.webp",  	
 url: "https://series-korea.com/The-Mandalorian-episode-1-TH",	
 referer: "https://series-korea.com/",	
 info: "PLAY TV",	
 playInNatPlayer: "true"	
 },
+{	
+name:"The Mandalorian Season 1 EP2",  	
+image:"https://series-korea.com/assets/img/uploads/The-Mandalorian.webp",  	
+url: "https://series-korea.com/The-Mandalorian-episode-2-TH",	
+referer: "https://series-korea.com/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},
+{	
+name:"The Mandalorian Season 1 EP3",  	
+image:"https://series-korea.com/assets/img/uploads/The-Mandalorian.webp",  	
+url: "https://series-korea.com/The-Mandalorian-episode-3-TH",	
+referer: "https://series-korea.com/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},
+{	
+name:"The Mandalorian Season 1 EP4",  	
+image:"https://series-korea.com/assets/img/uploads/The-Mandalorian.webp",  	
+url: "https://series-korea.com/The-Mandalorian-episode-4-TH",	
+referer: "https://series-korea.com/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},
+{	
+name:"The Mandalorian Season 1 EP5",  	
+image:"https://series-korea.com/assets/img/uploads/The-Mandalorian.webp",  	
+url: "https://series-korea.com/The-Mandalorian-episode-5-TH",	
+referer: "https://series-korea.com/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},
+{	
+name:"The Mandalorian Season 1 EP6",  	
+image:"https://series-korea.com/assets/img/uploads/The-Mandalorian.webp",  	
+url: "https://series-korea.com/The-Mandalorian-episode-6-TH",	
+referer: "https://series-korea.com/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},
+{	
+name:"The Mandalorian Season 1 EP7",  	
+image:"https://series-korea.com/assets/img/uploads/The-Mandalorian.webp",  	
+url: "https://series-korea.com/The-Mandalorian-episode-7-TH",	
+referer: "https://series-korea.com/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},
+{	
+name:"The Mandalorian Season 1 EP8",  	
+image:"https://series-korea.com/assets/img/uploads/The-Mandalorian.webp",  	
+url: "https://series-korea.com/The-Mandalorian-episode-8-TH",	
+referer: "https://series-korea.com/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},
+
 
 
 
