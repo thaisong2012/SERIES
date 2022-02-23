@@ -59,7 +59,14 @@ referer: "https://www.doonung1234.com/",
 info: "PLAY TV",	
 playInNatPlayer: "true"	
 },
-
+{	
+name:"Hawkeye Season 1 ตอนที่ 6 test........",  	
+image:"https://www.monomax.info/wp-content/uploads/2022/01/hawkey.jpg",  	
+url: "https://live.mvx-master5.work/PlayList/619e247d278b2ueO/master.m3u8",	
+referer: "https://nungfree2u.com/hawkeye-ep1-6-end-2021-hd/",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},
 
 
 ]	
