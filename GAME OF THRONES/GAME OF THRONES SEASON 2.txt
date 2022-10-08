@@ -1,0 +1,32 @@
+#EXTM3U
+
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.dooseries4k.com/wp-content/uploads/2022/08/Game-of-Thrones-Season-2-220x300-c-default.jpg",Game of Thrones (2012) มหาศึกชิงบัลลังก์   EP.1
+https://sgcdnseries.com/view/f9734306-ded9-5e92-8e55-9ac8c8fcc23f.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.dooseries4k.com/wp-content/uploads/2022/08/Game-of-Thrones-Season-2-220x300-c-default.jpg",Game of Thrones (2012) มหาศึกชิงบัลลังก์   EP.2
+https://sgcdnseries.com/view/6d064373-fc54-539f-87b3-bf1beb904eda.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.dooseries4k.com/wp-content/uploads/2022/08/Game-of-Thrones-Season-2-220x300-c-default.jpg",Game of Thrones (2012) มหาศึกชิงบัลลังก์   EP.3
+https://sgcdnseries.com/view/68f995f2-94bf-5f61-935a-e7cb663a88f7.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.dooseries4k.com/wp-content/uploads/2022/08/Game-of-Thrones-Season-2-220x300-c-default.jpg",Game of Thrones (2012) มหาศึกชิงบัลลังก์   EP.4
+https://sgcdnseries.com/view/055f96b6-e812-5521-96c4-18190b1e0754.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.dooseries4k.com/wp-content/uploads/2022/08/Game-of-Thrones-Season-2-220x300-c-default.jpg",Game of Thrones (2012) มหาศึกชิงบัลลังก์   EP.5
+https://sgcdnseries.com/view/682127af-306a-5a8e-b272-19b0876bee45.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.dooseries4k.com/wp-content/uploads/2022/08/Game-of-Thrones-Season-2-220x300-c-default.jpg",Game of Thrones (2012) มหาศึกชิงบัลลังก์   EP.6
+https://sgcdnseries.com/view/4c8dc4a7-ac77-53f2-8983-e600b3337d87.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.dooseries4k.com/wp-content/uploads/2022/08/Game-of-Thrones-Season-2-220x300-c-default.jpg",Game of Thrones (2012) มหาศึกชิงบัลลังก์   EP.7
+https://sgcdnseries.com/view/019cbbe8-ab1b-55de-96bb-ef340a92b7b5.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.dooseries4k.com/wp-content/uploads/2022/08/Game-of-Thrones-Season-2-220x300-c-default.jpg",Game of Thrones (2012) มหาศึกชิงบัลลังก์   EP.8
+https://sgcdnseries.com/view/ab99e2a0-be1d-5995-bcf9-64b3fdfb0a11.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.dooseries4k.com/wp-content/uploads/2022/08/Game-of-Thrones-Season-2-220x300-c-default.jpg",Game of Thrones (2012) มหาศึกชิงบัลลังก์   EP.9
+https://sgcdnseries.com/view/f6543125-d206-54ea-a3da-947f85463ec8.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.dooseries4k.com/wp-content/uploads/2022/08/Game-of-Thrones-Season-2-220x300-c-default.jpg",Game of Thrones (2012) มหาศึกชิงบัลลังก์   EP.10
+https://sgcdnseries.com/view/d0625610-ff74-5d46-9db7-4fa46e1bb304.m3u8
