@@ -1,0 +1,20 @@
+#EXTM3U
+
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.dooseries4k.com/wp-content/uploads/2022/08/Game-of-Thrones-Season-8-220x300-c-default.jpg",Game of Thrones (2019) มหาศึกชิงบัลลังก์   EP.1
+https://sgcdnseries.com/files/cd22deb8459e5ca8d36f124d86dcaff3_original.txt
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.dooseries4k.com/wp-content/uploads/2022/08/Game-of-Thrones-Season-8-220x300-c-default.jpg",Game of Thrones (2019) มหาศึกชิงบัลลังก์   EP.2
+https://sgcdnseries.com/files/3ae6edb1c053acbbf199f300d5794d51_original.txt
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.dooseries4k.com/wp-content/uploads/2022/08/Game-of-Thrones-Season-8-220x300-c-default.jpg",Game of Thrones (2019) มหาศึกชิงบัลลังก์   EP.3
+https://sgcdnseries.com/files/343572934baf895deb29a8392954800b_original.txt
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.dooseries4k.com/wp-content/uploads/2022/08/Game-of-Thrones-Season-8-220x300-c-default.jpg",Game of Thrones (2019) มหาศึกชิงบัลลังก์   EP.4
+https://sgcdnseries.com/files/bb75d17bff8c69597dc0360d787f0771_original.txt
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.dooseries4k.com/wp-content/uploads/2022/08/Game-of-Thrones-Season-8-220x300-c-default.jpg",Game of Thrones (2019) มหาศึกชิงบัลลังก์   EP.5
+https://sgcdnseries.com/files/dc0b3a7aff1c75e09ae5f3fd2cd39b8b_original.txt
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.dooseries4k.com/wp-content/uploads/2022/08/Game-of-Thrones-Season-8-220x300-c-default.jpg",Game of Thrones (2019) มหาศึกชิงบัลลังก์   EP.6
+https://sgcdnseries.com/files/172491afd74a23ded5374cdc3d461f06_original.txt

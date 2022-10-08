@@ -1,0 +1,24 @@
+#EXTM3U
+
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.dooseries4k.com/wp-content/uploads/2022/08/Game-of-Thrones-Season-7-220x300-c-default.jpg",Game of Thrones (2017) มหาศึกชิงบัลลังก์   EP.1
+https://sgcdnseries.com/files/c9b2b3f0fba0536a88b8d72d8746cdf4_original.txt
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.dooseries4k.com/wp-content/uploads/2022/08/Game-of-Thrones-Season-7-220x300-c-default.jpg",Game of Thrones (2017) มหาศึกชิงบัลลังก์   EP.2
+https://sgcdnseries.com/files/ce8b5596be37585d41bd6346f0773428_original.txt
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.dooseries4k.com/wp-content/uploads/2022/08/Game-of-Thrones-Season-7-220x300-c-default.jpg",Game of Thrones (2017) มหาศึกชิงบัลลังก์   EP.3
+https://sgcdnseries.com/files/c0a687e792a142f087653723c37b2a02_original.txt
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.dooseries4k.com/wp-content/uploads/2022/08/Game-of-Thrones-Season-7-220x300-c-default.jpg",Game of Thrones (2017) มหาศึกชิงบัลลังก์   EP.4
+https://sgcdnseries.com/files/781837e3db97249231c8dfa394443b52_original.txt
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.dooseries4k.com/wp-content/uploads/2022/08/Game-of-Thrones-Season-7-220x300-c-default.jpg",Game of Thrones (2017) มหาศึกชิงบัลลังก์   EP.5
+https://sgcdnseries.com/files/5169c51a10b6b760d975b3e1e2f3bd08_original.txt
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.dooseries4k.com/wp-content/uploads/2022/08/Game-of-Thrones-Season-7-220x300-c-default.jpg",Game of Thrones (2017) มหาศึกชิงบัลลังก์   EP.6
+https://sgcdnseries.com/files/4ed6ca80f72cb2627a4f776ecddc6869_original.txt
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.dooseries4k.com/wp-content/uploads/2022/08/Game-of-Thrones-Season-7-220x300-c-default.jpg",Game of Thrones (2017) มหาศึกชิงบัลลังก์   EP.7
+https://sgcdnseries.com/files/10a82f245cf7892120865048896b9c19_original.txt
+

@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.dooseries4k.com/wp-content/uploads/2022/08/Game-of-Thrones-Season-6-220x300-c-default.jpg",Game of Thrones (2015) มหาศึกชิงบัลลังก์   EP.1
+https://sgcdnseries.com/files/aa853cccc97a96962c4d6fcdda431a03_original.txt
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.dooseries4k.com/wp-content/uploads/2022/08/Game-of-Thrones-Season-6-220x300-c-default.jpg",Game of Thrones (2015) มหาศึกชิงบัลลังก์   EP.2
+https://sgcdnseries.com/files/5a5044c69147d4d12603b0221b6a44a8_original.txt
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.dooseries4k.com/wp-content/uploads/2022/08/Game-of-Thrones-Season-6-220x300-c-default.jpg",Game of Thrones (2015) มหาศึกชิงบัลลังก์   EP.3
+https://sgcdnseries.com/files/5e36118697765091dbfbd0781dd9514b_original.txt
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.dooseries4k.com/wp-content/uploads/2022/08/Game-of-Thrones-Season-6-220x300-c-default.jpg",Game of Thrones (2015) มหาศึกชิงบัลลังก์   EP.4
+https://sgcdnseries.com/files/7f987ef359c2139eb385009f3b63b2db_original.txt
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.dooseries4k.com/wp-content/uploads/2022/08/Game-of-Thrones-Season-6-220x300-c-default.jpg",Game of Thrones (2015) มหาศึกชิงบัลลังก์   EP.5
+https://sgcdnseries.com/files/3ad4e6a1a291efbbda42d77334b055ac_original.txt
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.dooseries4k.com/wp-content/uploads/2022/08/Game-of-Thrones-Season-6-220x300-c-default.jpg",Game of Thrones (2015) มหาศึกชิงบัลลังก์   EP.6
+https://sgcdnseries.com/files/b68056d81d6f6f42d45da6713e4d5c90_original.txt
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.dooseries4k.com/wp-content/uploads/2022/08/Game-of-Thrones-Season-6-220x300-c-default.jpg",Game of Thrones (2015) มหาศึกชิงบัลลังก์   EP.7
+https://sgcdnseries.com/files/16b9ba968b69500a37ce8bef45d2983e_original.txt
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.dooseries4k.com/wp-content/uploads/2022/08/Game-of-Thrones-Season-6-220x300-c-default.jpg",Game of Thrones (2015) มหาศึกชิงบัลลังก์   EP.8
+https://sgcdnseries.com/files/84d1defbbc6b2f468318a142e5480578_original.txt
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.dooseries4k.com/wp-content/uploads/2022/08/Game-of-Thrones-Season-6-220x300-c-default.jpg",Game of Thrones (2015) มหาศึกชิงบัลลังก์   EP.9
+https://sgcdnseries.com/files/df33663dad274a10700ba3924dce49ad_original.txt
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.dooseries4k.com/wp-content/uploads/2022/08/Game-of-Thrones-Season-6-220x300-c-default.jpg",Game of Thrones (2015) มหาศึกชิงบัลลังก์   EP.10
+https://sgcdnseries.com/files/a9ea6bd1c89e86a29e36cc047836a2f0_original.txt
