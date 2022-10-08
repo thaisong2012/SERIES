@@ -1,0 +1,6 @@
+#EXTM3U
+
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.dooseries4k.com/wp-content/uploads/2022/08/Game-of-Thrones-Season-3-220x300-c-default.jpg",Game of Thrones (2013) มหาศึกชิงบัลลังก์   EP.1
+https://sgcdnseries.com/view/f9734306-ded9-5e92-8e55-9ac8c8fcc23f.m3u8
+
