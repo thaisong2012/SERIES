@@ -1,0 +1,62 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://moviehdfree.net/wp-content/uploads/2021/12/Doctor-Stranger-2014.jpg",อัจฉริยะหมอ 2 แผ่นดิน EP.1
+https://mygetplay.xyz/e3q78c4hf4dmuuqqutxazh2zyat3flk77vr/720/index.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://moviehdfree.net/wp-content/uploads/2021/12/Doctor-Stranger-2014.jpg",อัจฉริยะหมอ 2 แผ่นดิน EP.2
+https://mygetplay.xyz/augdax8bpw8wi52x673glhhcjqn80au343w/720/index.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://moviehdfree.net/wp-content/uploads/2021/12/Doctor-Stranger-2014.jpg",อัจฉริยะหมอ 2 แผ่นดิน EP.3
+https://mygetplay.xyz/fh85c1yv83rpdlgdydelo4673tdiu7masni/720/index.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://moviehdfree.net/wp-content/uploads/2021/12/Doctor-Stranger-2014.jpg",อัจฉริยะหมอ 2 แผ่นดิน EP.4
+https://mygetplay.xyz/ipgf0fkfgfc6q70a1y66743in7f9yuiuexe/720/index.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://moviehdfree.net/wp-content/uploads/2021/12/Doctor-Stranger-2014.jpg",อัจฉริยะหมอ 2 แผ่นดิน EP.5
+https://mygetplay.xyz/ao9ctpaes2a7zelp1khzfhpjnmo1p4ysfqr/720/index.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://moviehdfree.net/wp-content/uploads/2021/12/Doctor-Stranger-2014.jpg",อัจฉริยะหมอ 2 แผ่นดิน EP.6
+https://mygetplay.xyz/glqkrvdrw6v8kot5znqof12r2u2nmuqjtph/720/index.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://moviehdfree.net/wp-content/uploads/2021/12/Doctor-Stranger-2014.jpg",อัจฉริยะหมอ 2 แผ่นดิน EP.7
+https://mygetplay.xyz/59ddn1oe3896gl2xtmmahpkm08k7vxs1g18/720/index.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://moviehdfree.net/wp-content/uploads/2021/12/Doctor-Stranger-2014.jpg",อัจฉริยะหมอ 2 แผ่นดิน EP.8
+https://mygetplay.xyz/0gjd6e44llvohz48t85web5md0005rjmd17/720/index.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://moviehdfree.net/wp-content/uploads/2021/12/Doctor-Stranger-2014.jpg",อัจฉริยะหมอ 2 แผ่นดิน EP.9
+https://mygetplay.xyz/6btxmqx8b5kom4pk61z82sbjob3g41ifca0/720/index.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://moviehdfree.net/wp-content/uploads/2021/12/Doctor-Stranger-2014.jpg",อัจฉริยะหมอ 2 แผ่นดิน EP.10
+https://mygetplay.xyz/6zcn811x5n9j9as86byn09gn767ki3z7mqp/720/index.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://moviehdfree.net/wp-content/uploads/2021/12/Doctor-Stranger-2014.jpg",อัจฉริยะหมอ 2 แผ่นดิน EP.11
+https://mygetplay.xyz/s2zb2h7qezdsyet8i39u2ajkkki8zt3ohin/720/index.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://moviehdfree.net/wp-content/uploads/2021/12/Doctor-Stranger-2014.jpg",อัจฉริยะหมอ 2 แผ่นดิน EP.12
+https://mygetplay.xyz/sptpholfu99i4roaeccgmc1rfk9vjovamlc/720/index.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://moviehdfree.net/wp-content/uploads/2021/12/Doctor-Stranger-2014.jpg",อัจฉริยะหมอ 2 แผ่นดิน EP.13
+https://mygetplay.xyz/y60zgdo60fvq67ncyz3i7i94atm1qcaj88b/720/index.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://moviehdfree.net/wp-content/uploads/2021/12/Doctor-Stranger-2014.jpg",อัจฉริยะหมอ 2 แผ่นดิน EP.14
+https://mygetplay.xyz/x6xuuoppdtqwpx03sz8qucaw65dxy3kt9p2/720/index.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://moviehdfree.net/wp-content/uploads/2021/12/Doctor-Stranger-2014.jpg",อัจฉริยะหมอ 2 แผ่นดิน EP.15
+https://mygetplay.xyz/z6ew7hwohe8r5bi3gl4j1hyt6i14quhms82/720/index.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://moviehdfree.net/wp-content/uploads/2021/12/Doctor-Stranger-2014.jpg",อัจฉริยะหมอ 2 แผ่นดิน EP.16
+https://mygetplay.xyz/rvdiicoklnyrxgldu3ga35r5xhmfyh1nzis/720/index.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://moviehdfree.net/wp-content/uploads/2021/12/Doctor-Stranger-2014.jpg",อัจฉริยะหมอ 2 แผ่นดิน EP.17
+https://mygetplay.xyz/368axcspsvj0l7n6wesnffzff8ynt1wmks6/720/index.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://moviehdfree.net/wp-content/uploads/2021/12/Doctor-Stranger-2014.jpg",อัจฉริยะหมอ 2 แผ่นดิน EP.18
+https://mygetplay.xyz/m6f8cd7oul60xbkq6o0h7jg5v1xl4cnu8k4/720/index.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://moviehdfree.net/wp-content/uploads/2021/12/Doctor-Stranger-2014.jpg",อัจฉริยะหมอ 2 แผ่นดิน EP.19
+https://mygetplay.xyz/s21vob08nguw8j4a7o62mneq0oe7kw1ulom/720/index.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://moviehdfree.net/wp-content/uploads/2021/12/Doctor-Stranger-2014.jpg",อัจฉริยะหมอ 2 แผ่นดิน EP.20 END
+https://mygetplay.xyz/u4bvonl0uf4sw8r9ohf5efggrvlnnygraz8/720/index.m3u8
+
