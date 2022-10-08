@@ -1,0 +1,28 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2021/04/frobUz2X5Pc8OiVZU8Oo5K3NKMM-200x300.jpg",WANDAVISION (2021) SEASON 1 EP.1
+https://sgcdnseries.com/view/fe78b968-a8e0-5784-b8b4-7f5e34a26c4d.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2021/04/frobUz2X5Pc8OiVZU8Oo5K3NKMM-200x300.jpg",WANDAVISION (2021) SEASON 1 EP.2
+https://sgcdnseries.com/view/9853a445-a9f3-5157-9a33-371e51fde096.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2021/04/frobUz2X5Pc8OiVZU8Oo5K3NKMM-200x300.jpg",WANDAVISION (2021) SEASON 1 EP.3
+https://sgcdnseries.com/view/5dfb8ad3-dee6-5d1c-ae98-758381b6883d.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2021/04/frobUz2X5Pc8OiVZU8Oo5K3NKMM-200x300.jpg",WANDAVISION (2021) SEASON 1 EP.4
+https://sgcdnseries.com/view/0619de6a-ef16-5b09-be52-2398592b143d.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2021/04/frobUz2X5Pc8OiVZU8Oo5K3NKMM-200x300.jpg",WANDAVISION (2021) SEASON 1 EP.5
+https://sgcdnseries.com/view/d6dd6a0b-540b-5638-bb4e-15ea0876d7b2.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2021/04/frobUz2X5Pc8OiVZU8Oo5K3NKMM-200x300.jpg",WANDAVISION (2021) SEASON 1 EP.6
+https://sgcdnseries.com/view/662eacde-9795-5a68-b126-7847a6e97707.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2021/04/frobUz2X5Pc8OiVZU8Oo5K3NKMM-200x300.jpg",WANDAVISION (2021) SEASON 1 EP.7
+https://sgcdnseries.com/view/f10edd24-ea6c-545a-9e8f-13650f5af64d.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2021/04/frobUz2X5Pc8OiVZU8Oo5K3NKMM-200x300.jpg",WANDAVISION (2021) SEASON 1 EP.8
+https://sgcdnseries.com/view/70a2beb8-9b8c-5308-b33a-1f232091e7c5.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2021/04/frobUz2X5Pc8OiVZU8Oo5K3NKMM-200x300.jpg",WANDAVISION (2021) SEASON 1 EP.9
+https://sgcdnseries.com/view/92508452-6128-5864-aad7-37a312a9d1ea.m3u8

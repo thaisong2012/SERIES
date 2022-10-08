@@ -1,0 +1,36 @@
+
+#EXTM3U
+
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2022/08/The-Sandman-2022-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B9%81%E0%B8%8B%E0%B8%99%E0%B8%94%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99-S01.jpg",THE SANDMAN SEASON 1 EP.1
+https://sgcdnseries.com/view/6dc8e5f0-6e1c-5261-8031-ed1d9186463c.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2022/08/The-Sandman-2022-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B9%81%E0%B8%8B%E0%B8%99%E0%B8%94%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99-S01.jpg",THE SANDMAN SEASON 1 EP.2
+https://sgcdnseries.com/view/de16f0cd-a27b-595d-83fe-73789a84f860.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2022/08/The-Sandman-2022-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B9%81%E0%B8%8B%E0%B8%99%E0%B8%94%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99-S01.jpg",THE SANDMAN SEASON 1 EP.3
+https://sgcdnseries.com/view/d23abda2-84b4-5945-812a-1b875093e567.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2022/08/The-Sandman-2022-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B9%81%E0%B8%8B%E0%B8%99%E0%B8%94%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99-S01.jpg",THE SANDMAN SEASON 1 EP.4
+https://sgcdnseries.com/view/feb45579-4a03-5785-b20a-0efc31d422c7.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2022/08/The-Sandman-2022-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B9%81%E0%B8%8B%E0%B8%99%E0%B8%94%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99-S01.jpg",THE SANDMAN SEASON 1 EP.5
+https://sgcdnseries.com/view/2adbbf7e-a5d7-5ac0-ab21-2f7bc23cb671.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2022/08/The-Sandman-2022-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B9%81%E0%B8%8B%E0%B8%99%E0%B8%94%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99-S01.jpg",THE SANDMAN SEASON 1 EP.6
+https://sgcdnseries.com/view/ef65d9cc-6c43-5ee1-99e2-341aef764479.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2022/08/The-Sandman-2022-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B9%81%E0%B8%8B%E0%B8%99%E0%B8%94%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99-S01.jpg",THE SANDMAN SEASON 1 EP.7
+https://sgcdnseries.com/view/7fd1d912-d198-59c6-b019-977dd56ae461.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2022/08/The-Sandman-2022-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B9%81%E0%B8%8B%E0%B8%99%E0%B8%94%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99-S01.jpg",THE SANDMAN SEASON 1 EP.8
+https://sgcdnseries.com/view/5e04f624-38a0-5993-8701-8a2a7180dc45.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2022/08/The-Sandman-2022-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B9%81%E0%B8%8B%E0%B8%99%E0%B8%94%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99-S01.jpg",THE SANDMAN SEASON 1 EP.9
+https://sgcdnseries.com/view/d08c96e8-77c9-5cc6-9381-2f5567f7f57b.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2022/08/The-Sandman-2022-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B9%81%E0%B8%8B%E0%B8%99%E0%B8%94%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99-S01.jpg",THE SANDMAN SEASON 1 EP.10
+https://sgcdnseries.com/view/78f7754e-2f68-59ab-89b3-875c8aef06f4.m3u8
+
+
+
