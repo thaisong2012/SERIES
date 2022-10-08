@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.movie-19.com/wp-content/uploads/2021/09/Money-Heist-Netflix-Season-5.jpg",MONEY HEIST | NETFLIX SEASON 5 EP.1
+https://antiddosleoplayer.com/yvwzwknts0sd76fcqf0yjhqyltlfqdw9j31/default/index.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.movie-19.com/wp-content/uploads/2021/09/Money-Heist-Netflix-Season-5.jpg",MONEY HEIST | NETFLIX SEASON 5 EP.2
+https://hlsp2p.com/view/5f60fce3-911f-5f99-9a2f-3b7ec221999d.txt
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.movie-19.com/wp-content/uploads/2021/09/Money-Heist-Netflix-Season-5.jpg",MONEY HEIST | NETFLIX SEASON 5 EP.3
+https://hlsp2p.com/view/9aaf8e4e-0866-50bb-bd71-eeea36daf1dd.txt
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.movie-19.com/wp-content/uploads/2021/09/Money-Heist-Netflix-Season-5.jpg",MONEY HEIST | NETFLIX SEASON 5 EP.4
+https://antiddosleoplayer.com/tvm32uqvicufcvfk2v2ub14qvhx33v9hr29/default/index.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.movie-19.com/wp-content/uploads/2021/09/Money-Heist-Netflix-Season-5.jpg",MONEY HEIST | NETFLIX SEASON 5 EP.5
+https://antiddosleoplayer.com/l3591igmxhjj777j4zxak6q3lfey4a9dmck/default/index.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.movie-19.com/wp-content/uploads/2021/09/Money-Heist-Netflix-Season-5.jpg",MONEY HEIST | NETFLIX SEASON 5 EP.6
+https://hlsp2p.com/view/afc5a448-5b29-5e76-bd73-0cbb37c1cd0f.txt
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.movie-19.com/wp-content/uploads/2021/09/Money-Heist-Netflix-Season-5.jpg",MONEY HEIST | NETFLIX SEASON 5 EP.7
+https://antiddosleoplayer.com/kut3wk65zbylr0cxipwpwchdikfwvyij1du/default/index.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.movie-19.com/wp-content/uploads/2021/09/Money-Heist-Netflix-Season-5.jpg",MONEY HEIST | NETFLIX SEASON 5 EP.8
+https://antiddosleoplayer.com/uc01wrhl4fdi25pgk9jlvea4nihoepzmzou/default/index.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.movie-19.com/wp-content/uploads/2021/09/Money-Heist-Netflix-Season-5.jpg",MONEY HEIST | NETFLIX SEASON 5 EP.9
+https://antiddosleoplayer.com/tt9y2sndgu73n3p673pr9e59azxy1h5zjzo/default/index.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.movie-19.com/wp-content/uploads/2021/09/Money-Heist-Netflix-Season-5.jpg",MONEY HEIST | NETFLIX SEASON 5 EP.10
+https://antiddosleoplayer.com/sqtbi1qc3yst2i83lgfff4x5ci3m7aev9of/default/index.m3u8
