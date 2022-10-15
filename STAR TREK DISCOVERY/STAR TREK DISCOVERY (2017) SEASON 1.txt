@@ -1,0 +1,50 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2020/10/ihvG9dCEnVU3gmMUftTkRICNdJf-200x300.jpg", STAR TREK DISCOVERY (2017) SEASON 1 EP.1
+https://hlsp2p.com/view/9f6e4c8b-9b60-5c75-86fc-4a7be647c99f.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2020/10/ihvG9dCEnVU3gmMUftTkRICNdJf-200x300.jpg", STAR TREK DISCOVERY (2017) SEASON 1 EP.2
+https://sgcdnseries.com/view/490b6fd0-19b2-5993-8d9a-7e6c9ab81dd6.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2020/10/ihvG9dCEnVU3gmMUftTkRICNdJf-200x300.jpg", STAR TREK DISCOVERY (2017) SEASON 1 EP.3
+https://sgcdnseries.com/view/d3a9c2a2-ce2f-5131-9c51-869ed9937512.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2020/10/ihvG9dCEnVU3gmMUftTkRICNdJf-200x300.jpg", STAR TREK DISCOVERY (2017) SEASON 1 EP.4
+https://sgcdnseries.com/view/8752d221-8e1b-5ed9-b5af-54e66294a78b.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2020/10/ihvG9dCEnVU3gmMUftTkRICNdJf-200x300.jpg", STAR TREK DISCOVERY (2017) SEASON 1 EP.5
+https://sgcdnseries.com/view/347220a7-d2c9-5112-aea2-672f4d98b353.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2020/10/ihvG9dCEnVU3gmMUftTkRICNdJf-200x300.jpg", STAR TREK DISCOVERY (2017) SEASON 1 EP.6
+https://p2ponline2.movie888.xyz/hls/lOTKAvx/file_1080.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2020/10/ihvG9dCEnVU3gmMUftTkRICNdJf-200x300.jpg", STAR TREK DISCOVERY (2017) SEASON 1 EP.7
+https://sgcdnseries.com/view/d79f1619-861a-58d3-96b3-e88fa297bfab.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2020/10/ihvG9dCEnVU3gmMUftTkRICNdJf-200x300.jpg", STAR TREK DISCOVERY (2017) SEASON 1 EP.8
+https://sgcdnseries.com/view/46542244-510e-5708-a6ed-63bfb22f43f6.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2020/10/ihvG9dCEnVU3gmMUftTkRICNdJf-200x300.jpg", STAR TREK DISCOVERY (2017) SEASON 1 EP.9
+https://p2ponline2.movie888.xyz/hls/U1KhCSP/file_1080.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2020/10/ihvG9dCEnVU3gmMUftTkRICNdJf-200x300.jpg", STAR TREK DISCOVERY (2017) SEASON 1 EP.10
+https://p2ponline2.movie888.xyz/hls/vRhY0jo/file_1080.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2020/10/ihvG9dCEnVU3gmMUftTkRICNdJf-200x300.jpg", STAR TREK DISCOVERY (2017) SEASON 1 EP.11
+https://p2ponline2.movie888.xyz/hls/sfXQS8i/file_1080.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2020/10/ihvG9dCEnVU3gmMUftTkRICNdJf-200x300.jpg", STAR TREK DISCOVERY (2017) SEASON 1 EP.12
+https://p2ponline2.movie888.xyz/hls/TwFSvNk/file_1080.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2020/10/ihvG9dCEnVU3gmMUftTkRICNdJf-200x300.jpg", STAR TREK DISCOVERY (2017) SEASON 1 EP.13
+https://p2ponline2.movie888.xyz/hls/4sYkLww/file_1080.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2020/10/ihvG9dCEnVU3gmMUftTkRICNdJf-200x300.jpg", STAR TREK DISCOVERY (2017) SEASON 1 EP.14
+https://p2ponline2.movie888.xyz/hls/yogsDy7/file_1080.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2020/10/ihvG9dCEnVU3gmMUftTkRICNdJf-200x300.jpg", STAR TREK DISCOVERY (2017) SEASON 1 EP.15
+https://p2ponline2.movie888.xyz/hls/gMjXtlK/file_1080.mp4/playlist.m3u8
+
+
+
+
