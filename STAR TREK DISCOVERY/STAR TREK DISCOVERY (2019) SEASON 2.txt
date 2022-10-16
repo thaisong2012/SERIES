@@ -1,0 +1,44 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2020/10/aJTSeqG43514TewIuS9hiHvbero-200x300.jpg", STAR TREK DISCOVERY (2019) SEASON 2 EP.1
+https://sgcdnseries.com/files/15e4b6b927276af859da8a84a6ea95ef_original.txt
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2020/10/aJTSeqG43514TewIuS9hiHvbero-200x300.jpg", STAR TREK DISCOVERY (2019) SEASON 2 EP.2
+https://sgcdnseries.com/files/5c2b9c140bf5a8f0097b721178184b23_original.txt
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2020/10/aJTSeqG43514TewIuS9hiHvbero-200x300.jpg", STAR TREK DISCOVERY (2019) SEASON 2 EP.3
+https://sgcdnseries.com/files/a66613fc245942ba4d5ad3e5bee2649d_original.txt
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2020/10/aJTSeqG43514TewIuS9hiHvbero-200x300.jpg", STAR TREK DISCOVERY (2019) SEASON 2 EP.4
+https://sgcdnseries.com/files/1ab73edcb342dbb192d5e31adcdaa443_original.txt
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2020/10/aJTSeqG43514TewIuS9hiHvbero-200x300.jpg", STAR TREK DISCOVERY (2019) SEASON 2 EP.5
+https://sgcdnseries.com/files/bae28de26f05ade72f9123055cc34c87_original.txt
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2020/10/aJTSeqG43514TewIuS9hiHvbero-200x300.jpg", STAR TREK DISCOVERY (2019) SEASON 2 EP.6
+https://sgcdnseries.com/files/fff0282d2f1c58d398a95a1f1ef6e7ac_original.txt
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2020/10/aJTSeqG43514TewIuS9hiHvbero-200x300.jpg", STAR TREK DISCOVERY (2019) SEASON 2 EP.7
+https://sgcdnseries.com/files/57826be84e33a2814e31bed9af4a4cd4_original.txt
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2020/10/aJTSeqG43514TewIuS9hiHvbero-200x300.jpg", STAR TREK DISCOVERY (2019) SEASON 2 EP.8
+https://sgcdnseries.com/files/fdad672a90bb2096fe6cb50f403b4b70_original.txt
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2020/10/aJTSeqG43514TewIuS9hiHvbero-200x300.jpg", STAR TREK DISCOVERY (2019) SEASON 2 EP.9
+https://sgcdnseries.com/files/3df1fdbe08e0669a03ce1f31e196c27d_original.txt
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2020/10/aJTSeqG43514TewIuS9hiHvbero-200x300.jpg", STAR TREK DISCOVERY (2019) SEASON 2 EP.10
+https://sgcdnseries.com/files/1e571684b0777b5be119097bd94da7af_original.txt
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2020/10/aJTSeqG43514TewIuS9hiHvbero-200x300.jpg", STAR TREK DISCOVERY (2019) SEASON 2 EP.11
+https://sgcdnseries.com/files/c802cdd28c5dada59800c36b5f0f234b_original.txt
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2020/10/aJTSeqG43514TewIuS9hiHvbero-200x300.jpg", STAR TREK DISCOVERY (2019) SEASON 2 EP.12
+https://sgcdnseries.com/files/e30113e7707a9151a51046da5d79fcde_original.txt
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2020/10/aJTSeqG43514TewIuS9hiHvbero-200x300.jpg", STAR TREK DISCOVERY (2019) SEASON 2 EP.13
+https://sgcdnseries.com/files/f45d50f02fc1f15b80e3d7d471d555fb_original.txt
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2020/10/aJTSeqG43514TewIuS9hiHvbero-200x300.jpg", STAR TREK DISCOVERY (2019) SEASON 2 EP.14
+https://sgcdnseries.com/files/166511d4b70093e35752c71229e675ca_original.txt
+
