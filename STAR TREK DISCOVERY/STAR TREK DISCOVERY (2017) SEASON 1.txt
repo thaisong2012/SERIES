@@ -25,25 +25,25 @@ https://sgcdnseries.com/view/d79f1619-861a-58d3-96b3-e88fa297bfab.m3u8
 https://sgcdnseries.com/view/46542244-510e-5708-a6ed-63bfb22f43f6.m3u8
 
 #EXTINF:-1 group-title="Series" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2020/10/ihvG9dCEnVU3gmMUftTkRICNdJf-200x300.jpg", STAR TREK DISCOVERY (2017) SEASON 1 EP.9
-https://p2ponline2.movie888.xyz/hls/U1KhCSP/file_1080.mp4/playlist.m3u8
+https://sgcdnseries.com/files/ca53d432ec4653c05b83ac033770e078_original.txt
 
 #EXTINF:-1 group-title="Series" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2020/10/ihvG9dCEnVU3gmMUftTkRICNdJf-200x300.jpg", STAR TREK DISCOVERY (2017) SEASON 1 EP.10
-https://p2ponline2.movie888.xyz/hls/vRhY0jo/file_1080.mp4/playlist.m3u8
+https://sgcdnseries.com/files/5dcb662912af52413869506aec01a777_original.txt
 
 #EXTINF:-1 group-title="Series" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2020/10/ihvG9dCEnVU3gmMUftTkRICNdJf-200x300.jpg", STAR TREK DISCOVERY (2017) SEASON 1 EP.11
-https://p2ponline2.movie888.xyz/hls/sfXQS8i/file_1080.mp4/playlist.m3u8
+https://sgcdnseries.com/files/85aa475b6923780ec5a180fd1ee8c025_original.txt
 
 #EXTINF:-1 group-title="Series" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2020/10/ihvG9dCEnVU3gmMUftTkRICNdJf-200x300.jpg", STAR TREK DISCOVERY (2017) SEASON 1 EP.12
-https://p2ponline2.movie888.xyz/hls/TwFSvNk/file_1080.mp4/playlist.m3u8
+https://sgcdnseries.com/files/bd34ddfa2f73069efe578bdce6789693_original.txt
 
 #EXTINF:-1 group-title="Series" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2020/10/ihvG9dCEnVU3gmMUftTkRICNdJf-200x300.jpg", STAR TREK DISCOVERY (2017) SEASON 1 EP.13
-https://p2ponline2.movie888.xyz/hls/4sYkLww/file_1080.mp4/playlist.m3u8
+https://sgcdnseries.com/files/dae9a5046e2e575cbc36793dfe73eb21_original.txt
 
 #EXTINF:-1 group-title="Series" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2020/10/ihvG9dCEnVU3gmMUftTkRICNdJf-200x300.jpg", STAR TREK DISCOVERY (2017) SEASON 1 EP.14
-https://p2ponline2.movie888.xyz/hls/yogsDy7/file_1080.mp4/playlist.m3u8
+https://sgcdnseries.com/files/58bf4869faccdf46605a73a3c5d4be52_original.txt
 
 #EXTINF:-1 group-title="Series" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2020/10/ihvG9dCEnVU3gmMUftTkRICNdJf-200x300.jpg", STAR TREK DISCOVERY (2017) SEASON 1 EP.15
-https://p2ponline2.movie888.xyz/hls/gMjXtlK/file_1080.mp4/playlist.m3u8
+https://sgcdnseries.com/files/161818bf0a6d013e5dec457c30928cf8_original.txt
 
 
 
