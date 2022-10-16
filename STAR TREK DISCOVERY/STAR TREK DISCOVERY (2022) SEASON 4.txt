@@ -2,3 +2,37 @@
 
 #EXTINF:-1 group-title="Series" tvg-logo="https://www.img09.xyz/assets/movie_poster/b/b361f148249b4036ca0c928146f54a17.jpg", STAR TREK DISCOVERY (2022) SEASON 4 EP.1
 https://server6.oneplayer.online/mp4/eDr08MX/file_720.mp4|Referer=https://www.doomovie-hd.com/
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.img09.xyz/assets/movie_poster/b/b361f148249b4036ca0c928146f54a17.jpg", STAR TREK DISCOVERY (2022) SEASON 4 EP.2
+https://server6.oneplayer.online/mp4/sLkjNYl/file_720.mp4|Referer=https://www.doomovie-hd.com/
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.img09.xyz/assets/movie_poster/b/b361f148249b4036ca0c928146f54a17.jpg", STAR TREK DISCOVERY (2022) SEASON 4 EP.3
+https://server6.oneplayer.online/mp4/0GhXJYq/file_720.mp4|Referer=https://www.doomovie-hd.com/
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.img09.xyz/assets/movie_poster/b/b361f148249b4036ca0c928146f54a17.jpg", STAR TREK DISCOVERY (2022) SEASON 4 EP.4
+https://server6.oneplayer.online/mp4/rWTRdZe/file_720.mp4|Referer=https://www.doomovie-hd.com/
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.img09.xyz/assets/movie_poster/b/b361f148249b4036ca0c928146f54a17.jpg", STAR TREK DISCOVERY (2022) SEASON 4 EP.5
+https://server6.oneplayer.online/mp4/DZt4i1l/file_720.mp4|Referer=https://www.doomovie-hd.com/
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.img09.xyz/assets/movie_poster/b/b361f148249b4036ca0c928146f54a17.jpg", STAR TREK DISCOVERY (2022) SEASON 4 EP.6
+https://server6.oneplayer.online/mp4/v4NErGO/file_720.mp4|Referer=https://www.doomovie-hd.com/
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.img09.xyz/assets/movie_poster/b/b361f148249b4036ca0c928146f54a17.jpg", STAR TREK DISCOVERY (2022) SEASON 4 EP.7
+https://server6.oneplayer.online/mp4/slrZwk6/file_720.mp4|Referer=https://www.doomovie-hd.com/
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.img09.xyz/assets/movie_poster/b/b361f148249b4036ca0c928146f54a17.jpg", STAR TREK DISCOVERY (2022) SEASON 4 EP.8
+https://server6.oneplayer.online/mp4/hlyFBI7/file_720.mp4|Referer=https://www.doomovie-hd.com/
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.img09.xyz/assets/movie_poster/b/b361f148249b4036ca0c928146f54a17.jpg", STAR TREK DISCOVERY (2022) SEASON 4 EP.9
+https://server6.oneplayer.online/mp4/BnxldiH/file_720.mp4|Referer=https://www.doomovie-hd.com/
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.img09.xyz/assets/movie_poster/b/b361f148249b4036ca0c928146f54a17.jpg", STAR TREK DISCOVERY (2022) SEASON 4 EP.10
+https://server6.oneplayer.online/mp4/5GzECtR/file_720.mp4|Referer=https://www.doomovie-hd.com/
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.img09.xyz/assets/movie_poster/b/b361f148249b4036ca0c928146f54a17.jpg", STAR TREK DISCOVERY (2022) SEASON 4 EP.11
+https://server6.oneplayer.online/mp4/CG0QXau/file_360.mp4|Referer=https://www.doomovie-hd.com/
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.img09.xyz/assets/movie_poster/b/b361f148249b4036ca0c928146f54a17.jpg", STAR TREK DISCOVERY (2022) SEASON 4 EP.12
+https://server6.oneplayer.online/mp4/BbAaT1D/file_720.mp4|Referer=https://www.doomovie-hd.com/
+
