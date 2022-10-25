@@ -16,7 +16,7 @@ https://sgcdnseries.com/view/8752d221-8e1b-5ed9-b5af-54e66294a78b.m3u8
 https://sgcdnseries.com/view/347220a7-d2c9-5112-aea2-672f4d98b353.m3u8
 
 #EXTINF:-1 group-title="Series" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2020/10/ihvG9dCEnVU3gmMUftTkRICNdJf-200x300.jpg", STAR TREK DISCOVERY (2017) SEASON 1 EP.6
-https://sgcdnseries.com/view/ca563053-5893-5649-beed-9a80d1a6dbec.m3u8
+https://sgcdnseries.com/files/13a7b4c0aa3911c57002e2325d2d2e62_original.txt
 
 #EXTINF:-1 group-title="Series" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2020/10/ihvG9dCEnVU3gmMUftTkRICNdJf-200x300.jpg", STAR TREK DISCOVERY (2017) SEASON 1 EP.7
 https://sgcdnseries.com/view/d79f1619-861a-58d3-96b3-e88fa297bfab.m3u8
