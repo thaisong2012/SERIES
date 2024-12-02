@@ -49,7 +49,7 @@ https://main.24playerhd.com/newplaylist/6210ae26d453ef902d348fdc/6210ae26d453ef9
 https://main.24playerhd.com/newplaylist/2de1c56ce595315050735152/2de1c56ce595315050735152.m3u8
 
 #EXTINF:-1 group-title="Series" tvg-logo="https://i.mydramalist.com/VXOLzy_4f.jpg",Love Game in Eastern Fantasy (2024)EP.17
-https://main.24playerhd.com/newplaylist/3d3b86fe57cdda9fb740bcd7/3d3b86fe57cdda9fb740bcd7.m3u8
+https://main.24playerhd.com:443/m3u8/77b0f59a63c7bf539a05f5b8/77b0f59a63c7bf539a05f5b8438.m3u8
 
 #EXTINF:-1 group-title="Series" tvg-logo="https://i.mydramalist.com/VXOLzy_4f.jpg",Love Game in Eastern Fantasy (2024)EP.18
 https://main.24playerhd.com/newplaylist/86e76567bdc72a4de442bfcb/86e76567bdc72a4de442bfcb.m3u8
