@@ -61,39 +61,39 @@ https://main.24playerhd.com:443/m3u8/b9ade60e00bbf90aefbb5c52/b9ade60e00bbf90aef
 https://main.24playerhd.com:443/m3u8/e63454f36f6047d14a9a9c25/e63454f36f6047d14a9a9c25438.m3u8
 
 #EXTINF:-1 group-title="Series" tvg-logo="https://i.mydramalist.com/VXOLzy_4f.jpg",Love Game in Eastern Fantasy (2024)EP.21
-https://main.24playerhd.com:443/m3u8/e63454f36f6047d14a9a9c25/e63454f36f6047d14a9a9c25438.m3u8
+https://main.24playerhd.com:443/m3u8/6fa5f7b74e4592baff78450a/6fa5f7b74e4592baff78450a438.m3u8
 
 #EXTINF:-1 group-title="Series" tvg-logo="https://i.mydramalist.com/VXOLzy_4f.jpg",Love Game in Eastern Fantasy (2024)EP.22
-https://main.24playerhd.com:443/m3u8/e63454f36f6047d14a9a9c25/e63454f36f6047d14a9a9c25438.m3u8
+https://main.24playerhd.com:443/m3u8/a47fcadb6dcbf5722d8ad763/a47fcadb6dcbf5722d8ad763438.m3u8
 
 #EXTINF:-1 group-title="Series" tvg-logo="https://i.mydramalist.com/VXOLzy_4f.jpg",Love Game in Eastern Fantasy (2024)EP.23
-https://main.24playerhd.com:443/m3u8/e63454f36f6047d14a9a9c25/e63454f36f6047d14a9a9c25438.m3u8
+https://main.24playerhd.com:443/m3u8/14c2eef41d5c4f07b2234870/14c2eef41d5c4f07b2234870438.m3u8
 
 #EXTINF:-1 group-title="Series" tvg-logo="https://i.mydramalist.com/VXOLzy_4f.jpg",Love Game in Eastern Fantasy (2024)EP.24
-https://main.24playerhd.com:443/m3u8/e63454f36f6047d14a9a9c25/e63454f36f6047d14a9a9c25438.m3u8
+https://main.24playerhd.com:443/m3u8/46cd9c8cc71f1db88227e9ba/46cd9c8cc71f1db88227e9ba438.m3u8
 
 #EXTINF:-1 group-title="Series" tvg-logo="https://i.mydramalist.com/VXOLzy_4f.jpg",Love Game in Eastern Fantasy (2024)EP.25
-https://main.24playerhd.com:443/m3u8/e63454f36f6047d14a9a9c25/e63454f36f6047d14a9a9c25438.m3u8
+https://main.24playerhd.com:443/m3u8/1a52df228b8561a9d4d91899/1a52df228b8561a9d4d91899438.m3u8
 
 #EXTINF:-1 group-title="Series" tvg-logo="https://i.mydramalist.com/VXOLzy_4f.jpg",Love Game in Eastern Fantasy (2024)EP.26
-https://main.24playerhd.com:443/m3u8/e63454f36f6047d14a9a9c25/e63454f36f6047d14a9a9c25438.m3u8
+https://main.24playerhd.com:443/m3u8/ed2e7c8c06331d38c0f1172d/ed2e7c8c06331d38c0f1172d438.m3u8
 
 #EXTINF:-1 group-title="Series" tvg-logo="https://i.mydramalist.com/VXOLzy_4f.jpg",Love Game in Eastern Fantasy (2024)EP.27
-https://main.24playerhd.com:443/m3u8/e63454f36f6047d14a9a9c25/e63454f36f6047d14a9a9c25438.m3u8
+https://main.24playerhd.com:443/m3u8/7e199a2879283dea23d6c6b7/7e199a2879283dea23d6c6b7438.m3u8
 
 #EXTINF:-1 group-title="Series" tvg-logo="https://i.mydramalist.com/VXOLzy_4f.jpg",Love Game in Eastern Fantasy (2024)EP.28
-https://main.24playerhd.com:443/m3u8/e63454f36f6047d14a9a9c25/e63454f36f6047d14a9a9c25438.m3u8
+https://main.24playerhd.com:443/m3u8/0a4a95801d2b11a3d5ddada4/0a4a95801d2b11a3d5ddada4438.m3u8
 
 #EXTINF:-1 group-title="Series" tvg-logo="https://i.mydramalist.com/VXOLzy_4f.jpg",Love Game in Eastern Fantasy (2024)EP.29
-https://main.24playerhd.com:443/m3u8/e63454f36f6047d14a9a9c25/e63454f36f6047d14a9a9c25438.m3u8
+https://main.24playerhd.com:443/m3u8/8402d464818edf7506fdf81c/8402d464818edf7506fdf81c438.m3u8
 
 #EXTINF:-1 group-title="Series" tvg-logo="https://i.mydramalist.com/VXOLzy_4f.jpg",Love Game in Eastern Fantasy (2024)EP.30
-https://main.24playerhd.com:443/m3u8/e63454f36f6047d14a9a9c25/e63454f36f6047d14a9a9c25438.m3u8
+https://main.24playerhd.com:443/m3u8/c3071031268b75c08fba32b9/c3071031268b75c08fba32b9438.m3u8
 
 #EXTINF:-1 group-title="Series" tvg-logo="https://i.mydramalist.com/VXOLzy_4f.jpg",Love Game in Eastern Fantasy (2024)EP.31
-https://main.24playerhd.com:443/m3u8/e63454f36f6047d14a9a9c25/e63454f36f6047d14a9a9c25438.m3u8
+https://main.24playerhd.com:443/m3u8/3f2df1d4ed13507f720ae349/3f2df1d4ed13507f720ae349438.m3u8
 
 #EXTINF:-1 group-title="Series" tvg-logo="https://i.mydramalist.com/VXOLzy_4f.jpg",Love Game in Eastern Fantasy (2024)EP.32 END
-https://main.24playerhd.com:443/m3u8/e63454f36f6047d14a9a9c25/e63454f36f6047d14a9a9c25438.m3u8
+https://main.24playerhd.com:443/m3u8/642a85a70994f8c31d2bb823/642a85a70994f8c31d2bb823438.m3u8
 
 
