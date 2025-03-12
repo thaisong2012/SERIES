@@ -1,31 +1,31 @@
 
 #EXTM3U
 
-#EXTINF:-1 group-title="Series" tvg-logo="https://s.isanook.com/mv/0/ud/34/174467/994840.jpg?ip/resize/w728/q80/jpg",���Էѡ���ѵ�ԡ����觵����� ep-7
+#EXTINF:-1 group-title="Series" tvg-logo="https://s.isanook.com/mv/0/ud/34/174467/994840.jpg?ip/resize/w728/q80/jpg",ผู้พิทักษ์รัตติกาลแห่งต้าเฟิ่ง ep-7
 https://ok-nah.com/hls/fbc1d1d1670fd7a0fb918e03a1a163cb/master.m3u8
-#EXTINF:-1 group-title="Series" tvg-logo="https://s.isanook.com/mv/0/ud/34/174467/994840.jpg?ip/resize/w728/q80/jpg",���Էѡ���ѵ�ԡ����觵����� ep-8
+#EXTINF:-1 group-title="Series" tvg-logo="https://s.isanook.com/mv/0/ud/34/174467/994840.jpg?ip/resize/w728/q80/jpg",ผู้พิทักษ์รัตติกาลแห่งต้าเฟิ่ง ep-8
 https://ok-nah.com/hls/5b0cd8957f174557631fd76f3b7c24e9/master.m3u8
-#EXTINF:-1 group-title="Series" tvg-logo="https://s.isanook.com/mv/0/ud/34/174467/994840.jpg?ip/resize/w728/q80/jpg",���Էѡ���ѵ�ԡ����觵����� ep-9
+#EXTINF:-1 group-title="Series" tvg-logo="https://s.isanook.com/mv/0/ud/34/174467/994840.jpg?ip/resize/w728/q80/jpg",ผู้พิทักษ์รัตติกาลแห่งต้าเฟิ่ง ep-9
 https://ok-nah.com/hls/ef94dad4b21ce69a52596fac7fb05da5/master.m3u8
-#EXTINF:-1 group-title="Series" tvg-logo="https://s.isanook.com/mv/0/ud/34/174467/994840.jpg?ip/resize/w728/q80/jpg",���Էѡ���ѵ�ԡ����觵����� ep-10
+#EXTINF:-1 group-title="Series" tvg-logo="https://s.isanook.com/mv/0/ud/34/174467/994840.jpg?ip/resize/w728/q80/jpg",ผู้พิทักษ์รัตติกาลแห่งต้าเฟิ่ง ep-10
 https://ok-nah.com/hls/6c546e273b2f4b6f3e845c6660ace7b1/master.m3u8
-#EXTINF:-1 group-title="Series" tvg-logo="https://s.isanook.com/mv/0/ud/34/174467/994840.jpg?ip/resize/w728/q80/jpg",���Էѡ���ѵ�ԡ����觵����� ep-11
+#EXTINF:-1 group-title="Series" tvg-logo="https://s.isanook.com/mv/0/ud/34/174467/994840.jpg?ip/resize/w728/q80/jpg",ผู้พิทักษ์รัตติกาลแห่งต้าเฟิ่ง ep-11
 https://ok-nah.com/hls/64f16a13c9e8e08aa7dc702b2c602b1e/master.m3u8
-#EXTINF:-1 group-title="Series" tvg-logo="https://s.isanook.com/mv/0/ud/34/174467/994840.jpg?ip/resize/w728/q80/jpg",���Էѡ���ѵ�ԡ����觵����� ep-12
+#EXTINF:-1 group-title="Series" tvg-logo="https://s.isanook.com/mv/0/ud/34/174467/994840.jpg?ip/resize/w728/q80/jpg",ผู้พิทักษ์รัตติกาลแห่งต้าเฟิ่ง ep-12
 https://ok-nah.com/hls/6c27b0707add6faa67030abbe5573a9b/master.m3u8
-#EXTINF:-1 group-title="Series" tvg-logo="https://s.isanook.com/mv/0/ud/34/174467/994840.jpg?ip/resize/w728/q80/jpg",���Էѡ���ѵ�ԡ����觵����� ep-13
+#EXTINF:-1 group-title="Series" tvg-logo="https://s.isanook.com/mv/0/ud/34/174467/994840.jpg?ip/resize/w728/q80/jpg",ผู้พิทักษ์รัตติกาลแห่งต้าเฟิ่ง ep-13
 https://ok-nah.com/hls/0357362a6a188a9c9b0b5abc13ac1839/master.m3u8
-#EXTINF:-1 group-title="Series" tvg-logo="https://s.isanook.com/mv/0/ud/34/174467/994840.jpg?ip/resize/w728/q80/jpg",���Էѡ���ѵ�ԡ����觵����� ep-14
+#EXTINF:-1 group-title="Series" tvg-logo="https://s.isanook.com/mv/0/ud/34/174467/994840.jpg?ip/resize/w728/q80/jpg",ผู้พิทักษ์รัตติกาลแห่งต้าเฟิ่ง ep-14
 https://ok-nah.com/hls/8d58cd0236f80cced2962087854fb32e/master.m3u8
-#EXTINF:-1 group-title="Series" tvg-logo="https://s.isanook.com/mv/0/ud/34/174467/994840.jpg?ip/resize/w728/q80/jpg",���Էѡ���ѵ�ԡ����觵����� ep-15
+#EXTINF:-1 group-title="Series" tvg-logo="https://s.isanook.com/mv/0/ud/34/174467/994840.jpg?ip/resize/w728/q80/jpg",ผู้พิทักษ์รัตติกาลแห่งต้าเฟิ่ง ep-15
 https://ok-nah.com/hls/7acbf6cf3fdd6de9230fcd77efeeffeb/master.m3u8
-#EXTINF:-1 group-title="Series" tvg-logo="https://s.isanook.com/mv/0/ud/34/174467/994840.jpg?ip/resize/w728/q80/jpg",���Էѡ���ѵ�ԡ����觵����� ep-16
+#EXTINF:-1 group-title="Series" tvg-logo="https://s.isanook.com/mv/0/ud/34/174467/994840.jpg?ip/resize/w728/q80/jpg",ผู้พิทักษ์รัตติกาลแห่งต้าเฟิ่ง ep-16
 https://ok-nah.com/hls/928a490a6f85aa453902d648747d0589/master.m3u8
-#EXTINF:-1 group-title="Series" tvg-logo="https://s.isanook.com/mv/0/ud/34/174467/994840.jpg?ip/resize/w728/q80/jpg",���Էѡ���ѵ�ԡ����觵����� ep-17
+#EXTINF:-1 group-title="Series" tvg-logo="https://s.isanook.com/mv/0/ud/34/174467/994840.jpg?ip/resize/w728/q80/jpg",ผู้พิทักษ์รัตติกาลแห่งต้าเฟิ่ง ep-17
 https://ok-nah.com/hls/5478a5bbbfba102ca1818367a7814352/master.m3u8
-#EXTINF:-1 group-title="Series" tvg-logo="https://s.isanook.com/mv/0/ud/34/174467/994840.jpg?ip/resize/w728/q80/jpg",���Էѡ���ѵ�ԡ����觵����� ep-18
+#EXTINF:-1 group-title="Series" tvg-logo="https://s.isanook.com/mv/0/ud/34/174467/994840.jpg?ip/resize/w728/q80/jpg",ผู้พิทักษ์รัตติกาลแห่งต้าเฟิ่ง ep-18
 https://ok-nah.com/hls/98fee03af72d2bdc1302e94ce1c5d487/master.m3u8
-#EXTINF:-1 group-title="Series" tvg-logo="https://s.isanook.com/mv/0/ud/34/174467/994840.jpg?ip/resize/w728/q80/jpg",���Էѡ���ѵ�ԡ����觵����� ep-19
+#EXTINF:-1 group-title="Series" tvg-logo="https://s.isanook.com/mv/0/ud/34/174467/994840.jpg?ip/resize/w728/q80/jpg",ผู้พิทักษ์รัตติกาลแห่งต้าเฟิ่ง ep-19
 https://ok-nah.com/hls/a1faafaa44906cfdfbef9701c048a8d6/master.m3u8
-#EXTINF:-1 group-title="Series" tvg-logo="https://s.isanook.com/mv/0/ud/34/174467/994840.jpg?ip/resize/w728/q80/jpg",���Էѡ���ѵ�ԡ����觵����� ep-20
+#EXTINF:-1 group-title="Series" tvg-logo="https://s.isanook.com/mv/0/ud/34/174467/994840.jpg?ip/resize/w728/q80/jpg",ผู้พิทักษ์รัตติกาลแห่งต้าเฟิ่ง ep-20
 https://ok-nah.com/hls/095a442459ec6e4b0697f1a3bc0fea7e/master.m3u8
