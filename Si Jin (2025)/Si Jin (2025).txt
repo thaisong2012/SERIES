@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Series" tvg-logo="https://s.isanook.com/mv/0/ui/36/180675/GknzzAnW4AAbS1u.jpg",Si Jin (2025) ซื่อจิ่น หวนรักประดับใจ พากย์ไทย ep-14
-https://online225.com/cdn/hls/facff7555d8db858fcd4c1642e65f48a/master.txt?s=2&d=
+https://main.24playerhd.com/newplaylist/1a1d60d862e4eff2ecc22648/1a1d60d862e4eff2ecc22648.m3u8
 #EXTINF:-1 group-title="Series" tvg-logo="https://s.isanook.com/mv/0/ui/36/180675/GknzzAnW4AAbS1u.jpg",Si Jin (2025) ซื่อจิ่น หวนรักประดับใจ พากย์ไทย ep-15
 https://ok-nah.com/hls/dba959ddcfd0740dbcb57bb67d6422aa/master.m3u8
 #EXTINF:-1 group-title="Series" tvg-logo="https://s.isanook.com/mv/0/ui/36/180675/GknzzAnW4AAbS1u.jpg",Si Jin (2025) ซื่อจิ่น หวนรักประดับใจ พากย์ไทย ep-16
