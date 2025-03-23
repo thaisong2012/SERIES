@@ -1,6 +1,4 @@
-
 #EXTM3U
-
 #EXTINF:-1 group-title="Series" tvg-logo="https://s.isanook.com/mv/0/ui/36/180675/GknzzAnW4AAbS1u.jpg",Si Jin (2025) ซื่อจิ่น หวนรักประดับใจ พากย์ไทย ep-14
 https://ok-nah.com/hls/87d0444609e9e9ae24efeb82ee5eb2cb/master.m3u8
 #EXTINF:-1 group-title="Series" tvg-logo="https://s.isanook.com/mv/0/ui/36/180675/GknzzAnW4AAbS1u.jpg",Si Jin (2025) ซื่อจิ่น หวนรักประดับใจ พากย์ไทย ep-15
