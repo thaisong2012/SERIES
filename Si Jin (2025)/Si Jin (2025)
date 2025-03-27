@@ -36,3 +36,5 @@ https://main.24playerhd.com/newplaylist/b3923b76e6806a709325b592/b3923b76e6806a7
 https://main.24playerhd.com/newplaylist/a5112fa368af2468388653f1/a5112fa368af2468388653f1.m3u8
 #EXTINF:-1 group-title="Series" tvg-logo="https://s.isanook.com/mv/0/ui/36/180675/GknzzAnW4AAbS1u.jpg",test ระบบ
 https://ok-nah.com/hls/3c41046c4bf8c5702489504c2665b3c7/master.m3u8|Referer=https://series-full.com/
+#EXTINF:-1 group-title="Series" tvg-logo="https://s.isanook.com/mv/0/ui/36/180675/GknzzAnW4AAbS1u.jpg",test ระบบ
+https://main.24playerhd.com/newplaylist/a5112fa368af2468388653f1/a5112fa368af2468388653f1.m3u8|Referer=https://www.123-hd.com/
