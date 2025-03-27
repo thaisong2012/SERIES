@@ -1,0 +1,51 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/th/f/f8/Mirror_A_Tale_Of_Twin_Cities.jpeg",Mirror: A Tale of Twin Cities  EP.1
+https://ok-nah.com/hls/5dca1f48b027b470fd5ee35a249d75c2/master.m3u8
+#EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/th/f/f8/Mirror_A_Tale_Of_Twin_Cities.jpeg",Mirror: A Tale of Twin Cities  EP.2
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/th/f/f8/Mirror_A_Tale_Of_Twin_Cities.jpeg",Mirror: A Tale of Twin Cities  EP.3
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/th/f/f8/Mirror_A_Tale_Of_Twin_Cities.jpeg",Mirror: A Tale of Twin Cities  EP.4
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/th/f/f8/Mirror_A_Tale_Of_Twin_Cities.jpeg",Mirror: A Tale of Twin Cities  EP.5
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/th/f/f8/Mirror_A_Tale_Of_Twin_Cities.jpeg",Mirror: A Tale of Twin Cities  EP.6
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/th/f/f8/Mirror_A_Tale_Of_Twin_Cities.jpeg",Mirror: A Tale of Twin Cities  EP.7
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/th/f/f8/Mirror_A_Tale_Of_Twin_Cities.jpeg",Mirror: A Tale of Twin Cities  EP.8
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/th/f/f8/Mirror_A_Tale_Of_Twin_Cities.jpeg",Mirror: A Tale of Twin Cities  EP.9
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/th/f/f8/Mirror_A_Tale_Of_Twin_Cities.jpeg",Mirror: A Tale of Twin Cities  EP.10
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/th/f/f8/Mirror_A_Tale_Of_Twin_Cities.jpeg",Mirror: A Tale of Twin Cities  EP.11
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/th/f/f8/Mirror_A_Tale_Of_Twin_Cities.jpeg",Mirror: A Tale of Twin Cities  EP.12
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/th/f/f8/Mirror_A_Tale_Of_Twin_Cities.jpeg",Mirror: A Tale of Twin Cities  EP.13
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/th/f/f8/Mirror_A_Tale_Of_Twin_Cities.jpeg",Mirror: A Tale of Twin Cities  EP.14
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/th/f/f8/Mirror_A_Tale_Of_Twin_Cities.jpeg",Mirror: A Tale of Twin Cities  EP.15
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/th/f/f8/Mirror_A_Tale_Of_Twin_Cities.jpeg",Mirror: A Tale of Twin Cities  EP.16
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/th/f/f8/Mirror_A_Tale_Of_Twin_Cities.jpeg",Mirror: A Tale of Twin Cities  EP.17
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/th/f/f8/Mirror_A_Tale_Of_Twin_Cities.jpeg",Mirror: A Tale of Twin Cities  EP.18
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/th/f/f8/Mirror_A_Tale_Of_Twin_Cities.jpeg",Mirror: A Tale of Twin Cities  EP.19
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/th/f/f8/Mirror_A_Tale_Of_Twin_Cities.jpeg",Mirror: A Tale of Twin Cities  EP.20
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/th/f/f8/Mirror_A_Tale_Of_Twin_Cities.jpeg",Mirror: A Tale of Twin Cities  EP.21
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/th/f/f8/Mirror_A_Tale_Of_Twin_Cities.jpeg",Mirror: A Tale of Twin Cities  EP.22
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/th/f/f8/Mirror_A_Tale_Of_Twin_Cities.jpeg",Mirror: A Tale of Twin Cities  EP.23
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/th/f/f8/Mirror_A_Tale_Of_Twin_Cities.jpeg",Mirror: A Tale of Twin Cities  EP.24
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/th/f/f8/Mirror_A_Tale_Of_Twin_Cities.jpeg",Mirror: A Tale of Twin Cities  EP.25
