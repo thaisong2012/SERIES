@@ -30,10 +30,13 @@ https://ok-nah.com/hls/55ade19ccdc2ab558082d5627133127b/master.m3u8
 https://ok-nah.com/hls/adc31a35f3251b78e5e9c859da3b5d99/master.m3u8
 #EXTINF:-1 group-title="Series" tvg-logo="https://s.isanook.com/mv/0/ui/36/180675/GknzzAnW4AAbS1u.jpg",Si Jin (2025) ซื่อจิ่น หวนรักประดับใจ พากย์ไทย ep-28
 https://ok-nah.com/hls/b95b9add0c5d77eb94b788d26967b223/master.m3u8
-#EXTINF:-1 group-title="Series" tvg-logo="https://s.isanook.com/mv/0/ui/36/180675/GknzzAnW4AAbS1u.jpg",Si Jin (2025) ซื่อจิ่น หวนรักประดับใจ พากย์ไทย ep-29
-https://main.24playerhd.com/newplaylist/b3923b76e6806a709325b592/b3923b76e6806a709325b592.m3u8
-#EXTINF:-1 group-title="Series" tvg-logo="https://s.isanook.com/mv/0/ui/36/180675/GknzzAnW4AAbS1u.jpg",Si Jin (2025) ซื่อจิ่น หวนรักประดับใจ พากย์ไทย ep-30
-https://main.24playerhd.com/newplaylist/a5112fa368af2468388653f1/a5112fa368af2468388653f1.m3u8
+#EXTINF:-1 group-title="Series" tvg-logo="https://s.isanook.com/mv/0/ui/36/180675/GknzzAnW4AAbS1u.jpg",Si Jin (2025) ep-29
+https://ok-nah.com/hls/c66e3e7c199796e0f781aae65b36b4a7/master.m3u8
+#EXTINF:-1 group-title="Series" tvg-logo="https://s.isanook.com/mv/0/ui/36/180675/GknzzAnW4AAbS1u.jpg",Si Jin (2025) ep-30
+https://ok-nah.com/hls/3c41046c4bf8c5702489504c2665b3c7/master.m3u8
+
+
+
 #EXTINF:-1 group-title="Series" tvg-logo="https://s.isanook.com/mv/0/ui/36/180675/GknzzAnW4AAbS1u.jpg",test ระบบ
 https://ok-nah.com/hls/3c41046c4bf8c5702489504c2665b3c7/master.m3u8|Referer=https://series-full.com/
 #EXTINF:-1 group-title="Series" tvg-logo="https://s.isanook.com/mv/0/ui/36/180675/GknzzAnW4AAbS1u.jpg",test ระบบ
